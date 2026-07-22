@@ -24,24 +24,24 @@
 
 **Day 1 — Environment Setup & Big-O Basics**
 
-- [ ] Pick and set up your primary language for interviews (stick with it for all 100 days)
-- [ ] Set up a distraction-free coding environment (plain editor, not autocomplete-heavy IDE, to mimic interview conditions)
-- [ ] Read a primer on Big-O notation — time and space complexity (~25 min)
-- [ ] For 5 basic operations (array access, array search, hash lookup, etc.), write down their Big-O yourself
+- [x] Pick and set up your primary language for interviews (stick with it for all 100 days)
+- [x] Set up a distraction-free coding environment (plain editor, not autocomplete-heavy IDE, to mimic interview conditions)
+- [x] Read a primer on Big-O notation — time and space complexity (~25 min)
+- [x] For 5 basic operations (array access, array search, hash lookup, etc.), write down their Big-O yourself
 
 **Day 2 — Arrays I: Basics & Traversal**
 
-- [ ] Review the core idea of array traversal and in-place operations (~10 min) before starting
-- [ ] Solve 2 Easy problems on this topic
-- [ ] Solve 1 Medium problem on this topic
-- [ ] Write down the pattern/trick you used — could you explain it to someone else in one sentence?
+- [x] Review the core idea of array traversal and in-place operations (~10 min) before starting
+- [x] Solve 2 Easy problems on this topic
+- [x] Solve 1 Medium problem on this topic
+- [x] Write down the pattern/trick you used — could you explain it to someone else in one sentence?
 
 **Day 3 — Arrays II: Two-Pointer Intro & Prefix Sums**
 
-- [ ] Review the core idea of two-pointer basics and prefix sums (~10 min) before starting
-- [ ] Solve 2 Easy problems on this topic
-- [ ] Solve 1 Medium problem on this topic
-- [ ] Write down the pattern/trick you used — could you explain it to someone else in one sentence?
+- [x] Review the core idea of two-pointer basics and prefix sums (~10 min) before starting
+- [x] Solve 2 Easy problems on this topic
+- [x] Solve 1 Medium problem on this topic
+- [x] Write down the pattern/trick you used — could you explain it to someone else in one sentence?
 
 **Day 4 — Strings I: Basics & Manipulation**
 
