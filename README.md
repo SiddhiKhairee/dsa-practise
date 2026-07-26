@@ -59,10 +59,10 @@
 
 **Day 6 — Hashing: Hash Maps & Sets**
 
-- [ ] Review the core idea of hash maps and hash sets (~10 min) before starting
-- [ ] Solve 2 Easy problems on this topic
-- [ ] Solve 1 Medium problem on this topic
-- [ ] Write down the pattern/trick you used — could you explain it to someone else in one sentence?
+- [x] Review the core idea of hash maps and hash sets (~10 min) before starting
+- [x] Solve 2 Easy problems on this topic
+- [x] Solve 1 Medium problem on this topic
+- [x] Write down the pattern/trick you used — could you explain it to someone else in one sentence?
 
 **Day 7 — Review Day: Arrays / Strings / Hashing Mixed Practice**
 
