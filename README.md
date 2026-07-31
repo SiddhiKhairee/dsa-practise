@@ -66,10 +66,10 @@
 
 **Day 7 — Review Day: Arrays / Strings / Hashing Mixed Practice**
 
-- [ ] Pick 4-5 problems spanning this week's topics (mix of Easy/Medium)
-- [ ] Solve them timed, 25-30 min each, no hints
-- [ ] For any you couldn't solve, read the solution, then redo it from scratch tomorrow morning
-- [ ] Update your personal 'weak topics' list
+- [x] Pick 4-5 problems spanning this week's topics (mix of Easy/Medium)
+- [x] Solve them timed, 25-30 min each, no hints
+- [x] For any you couldn't solve, read the solution, then redo it from scratch tomorrow morning
+- [x] Update your personal 'weak topics' list
 - [ ] ML Maintenance (~20-25 min): Re-derive one classic ML algorithm from memory (e.g. logistic regression, k-means, a decision tree split) — no notes, then check yourself
 
 ### Week 2 (Days 8-14)
