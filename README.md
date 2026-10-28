@@ -287,17 +287,17 @@
 
 **Day 36 — Heaps / Priority Queues**
 
-- [ ] Review the heaps / priority queues pattern and when to recognize it (~10 min)
-- [ ] Solve 2 Medium problems using this pattern
-- [ ] Solve 1 additional problem without looking at notes — test recall under light pressure
-- [ ] Log: what signals in a problem tell you to reach for this pattern?
+- [x] Review the heaps / priority queues pattern and when to recognize it (~10 min)
+- [x] Solve 2 Medium problems using this pattern
+- [x] Solve 1 additional problem without looking at notes — test recall under light pressure
+- [x] Log: what signals in a problem tell you to reach for this pattern?
 
 **Day 37 — Heap Problems**
 
-- [ ] Review the heap-based problems (k-th largest, merge k sorted lists) pattern and when to recognize it (~10 min)
-- [ ] Solve 2 Medium problems using this pattern
-- [ ] Solve 1 additional problem without looking at notes — test recall under light pressure
-- [ ] Log: what signals in a problem tell you to reach for this pattern?
+- [x] Review the heap-based problems (k-th largest, merge k sorted lists) pattern and when to recognize it (~10 min)
+- [x] Solve 2 Medium problems using this pattern
+- [x] Solve 1 additional problem without looking at notes — test recall under light pressure
+- [x] Log: what signals in a problem tell you to reach for this pattern?
 
 **Day 38 — Greedy Algorithms Intro**
 
